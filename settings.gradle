@@ -1,0 +1,2 @@
+rootProject.name = "Paging3CodelabDemo"
+include ':app'
